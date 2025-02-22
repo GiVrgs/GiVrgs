@@ -22,8 +22,8 @@
 ### Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiVrgs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiVrgs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiVrgs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&locale=pt-br&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiVrgs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
 ###
