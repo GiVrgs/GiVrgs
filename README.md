@@ -5,9 +5,9 @@ Atualmente, sou estudante de Engenharia de Software, dedicada a expandir minhas 
 
 <br>
 <div>
-<a href="http://www.github.com/GiVrgs"><img width="42%" src="https://github-readme-stats.vercel.app/api?username=GiVrgs&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true&locale=pt-br" alt="GiVrgs's GitHub stats" /></a>
+<a href="http://www.github.com/GiVrgs"><img src="https://github-readme-stats.vercel.app/api?username=GiVrgs&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true&locale=pt-br" alt="GiVrgs's GitHub stats" /></a>
 
-<a href="http://www.github.com/GiVrgs"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiVrgs&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9"/></a>
+<a href="http://www.github.com/GiVrgs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiVrgs&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true&layout=compact&custom_title=Tecnologias&langs_count=9"/></a>
 </div>
 
 ### Linguagens e Tecnologias
