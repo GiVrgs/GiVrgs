@@ -1,4 +1,4 @@
-![](https://github.com/GiVrgs/GiVrgs/blob/main/gif%20github.gif)
+![](https://github.com/GiVrgs/GiVrgs/blob/main/gif%20github%20(2).gif)
 
 <div align="center"> 
   <a href="https://http://www.youtube.com/@giovannavargas1847" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
