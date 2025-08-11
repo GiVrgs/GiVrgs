@@ -1,4 +1,4 @@
-![](https://github.com/GiVrgs/GiVrgs/blob/main/gif%20github.gif)
+
 
 <div align="center">
   <a href="www.linkedin.com/in/giovanna-vargas-73a499258" target="_blank">
